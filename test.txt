@@ -12,3 +12,6 @@ line from user_1
 
 
 new COMMIT
+
+
+line_new
