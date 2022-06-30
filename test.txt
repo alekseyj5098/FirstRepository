@@ -7,4 +7,4 @@ add addasdasd
 fixed Bug
 
 lineFromUser1
-line froim User_1111
+line from user_1
