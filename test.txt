@@ -5,3 +5,5 @@ ADD NEW TEXT
 add addasdasd
 
 fixed Bug
+
+lineFromUser1
