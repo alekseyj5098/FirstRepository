@@ -8,3 +8,7 @@ fixed Bug
 
 lineFromUser1
 line from user_1
+
+
+
+new COMMIT
